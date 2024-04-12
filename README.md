@@ -20,7 +20,9 @@ Crescimento Empresarial)
 
 
 - Tabela de EndPoints(Localhost:8080/well)
-
+- 
+  (Para usar metodo delete, usar na ordem Pagamento, Pedido e depois cliente)
+  
   Cliente:
   - FindAll (/clientes)
   - FindById ("/clientes/{id_cliente}")
@@ -89,6 +91,8 @@ Nossa solução também incluirá mecanismos para coletar feedback dos usuários
 
 - Aumentar a Satisfação do Cliente: 
 Ao fornecer uma experiência de usuário mais amigável e acessível, esperamos aumentar a satisfação do cliente e fortalecer o relacionamento entre os usuários e a aplicação. Isso pode resultar em maior fidelidade do cliente e aumento da recomendação boca a boca.
+
+
 
 
 
